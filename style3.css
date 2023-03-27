@@ -1,0 +1,23 @@
+.container{
+    text-align:center;
+    padding:30px 0px 30px;
+}
+hr{
+    margin:0px 0px 90px;
+    padding:0px 30px 0px;
+}
+.card-caption{
+    padding:30px 0px 10px;
+    font-weight: bold;
+    font-size: 20px;
+    color:gray;
+
+}
+.button{
+    width:200px;
+    height:30px;
+    color:white;
+    background-color: black;
+    border-radius: 10px;
+    border:none;
+}
